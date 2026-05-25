@@ -53,7 +53,7 @@
       "filename": "providers/cinemm.js",
       "enabled": true,
       "formats": ["mp4", "mkv"],
-      "logo": "https://www.google.com/s2/favicons?domain=cine.com&sz=256",
+      "logo": "https://www.google.com/s2/favicons?domain=cinemm.com&sz=256",
       "contentLanguage": ["en"]
     },
     {
