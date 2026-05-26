@@ -1,13 +1,13 @@
 {
   "name": "Asura Synthesis",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "settings": [],
   "scrapers": [
     {
       "id": "zinkmovies",
-      "name": "Asura | ZinkMovies",
+      "name": "ZinkMovies",
       "description": "Direct Ripping for ZinkMovies (Worker + HubCloud)",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "author": "piratezoro9",
       "supportedTypes": ["movie", "tv"],
       "filename": "providers/zinkmovies.js",
@@ -19,8 +19,8 @@
     {
       "id": "vegamovies",
       "name": "VegaMovies",
-      "description": "Indian & Hollywood movies/series from vegamovies.market — V-Cloud/HubCloud/PixelDrain/BuzzServer/10Gbps",
-      "version": "1.0.0",
+      "description": "Indian & Hollywood movies/series from vegamovies.market",
+      "version": "1.0.1",
       "author": "piratezoro9",
       "supportedTypes": ["movie", "tv"],
       "filename": "providers/vegamovies.js",
@@ -33,7 +33,7 @@
     {
       "id": "biavox",
       "name": "BiaVox",
-      "description": "Multi-lang movies from biavox.com — gatekeeper bypass + ShareCloudy JWPlayer extraction",
+      "description": "Multi-lang movies from biavox.com",
       "version": "1.0.0",
       "author": "piratezoro9",
       "supportedTypes": ["movie"],
@@ -46,7 +46,7 @@
     {
       "id": "cinemm",
       "name": "CineMM",
-      "description": "Direct MP4 streams from cinemm.com — Next.js RSC API, quota bypass, multi-CDN (stream.cmreel.com, stream.cmapp.tv)",
+      "description": "Direct MP4 streams from cinemm.com)",
       "version": "1.0.0",
       "author": "piratezoro9",
       "supportedTypes": ["movie", "tv"],
@@ -60,7 +60,7 @@
       "id": "allwish",
       "name": "AllWish",
       "description": "Anime (SUB/DUB) from all-wish.me — MegaPlay + Zen HLS extractors",
-      "version": "1.0.0",
+      "version": "1.0.2",
       "author": "piratezoro9",
       "supportedTypes": ["movie", "tv"],
       "filename": "providers/allwish.js",
@@ -72,8 +72,8 @@
     {
       "id": "peachify",
       "name": "Peachify",
-      "description": "Streams from peachify.top — 3 server sources (MovieBox/Holly/Air) via Cloudflare Workers with AES-256-GCM decryption",
-      "version": "1.0.0",
+      "description": "Streams from peachify.top",
+      "version": "1.0.1",
       "author": "piratezoro9",
       "supportedTypes": ["movie", "tv"],
       "filename": "providers/peachify.js",
@@ -85,7 +85,7 @@
     {
       "id": "moviesdrive",
       "name": "MoviesDrive",
-      "description": "Hindi movies & series from new2.moviesdrives.my — Typesense exact search + HubCloud FSL streams only",
+      "description": "Hindi movies & series from new2.moviesdrives.my",
       "version": "1.0.1",
       "author": "piratezoro9",
       "supportedTypes": ["movie", "tv"],
@@ -99,7 +99,7 @@
     {
       "id": "anikototv",
       "name": "AnikotoTV",
-      "description": "Anime provider for AnikotoTV.to via Mapper API + Native Extractor",
+      "description": "Anime provider for AnikotoTV.to",
       "version": "1.0.5",
       "author": "piratezoro9",
       "supportedTypes": ["movie", "tv", "anime"],
@@ -108,6 +108,19 @@
       "formats": ["mp4"],
       "logo": "https://anikototv.to/favicon.ico",
       "contentLanguage": ["en", "ja"]
+    },
+    {
+      "id": "4khdhub",
+      "name": "4kHDHub",
+      "description": "Direct Dual-Audio Movies & Series)",
+      "version": "1.0.1",
+      "author": "piratezoro9",
+      "supportedTypes": ["movie", "tv"],
+      "filename": "providers/4khdhub.js",
+      "enabled": true,
+      "formats": ["mkv", "mp4"],
+      "logo": "https://4khdhub.link/favicon-96x96.png",
+      "contentLanguage": ["hi", "en"]
     }
   ]
 }
