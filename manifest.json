@@ -3,20 +3,7 @@
   "version": "1.0.2",
   "settings": [],
   "scrapers": [
-    {
-      "id": "zinkmovies",
-      "name": "ZinkMovies",
-      "description": "Direct Ripping for ZinkMovies (Worker + HubCloud)",
-      "version": "1.0.1",
-      "author": "piratezoro9",
-      "supportedTypes": ["movie", "tv"],
-      "filename": "providers/zinkmovies.js",
-      "enabled": true,
-      "formats": ["mp4", "mkv", "m3u8"],
-      "logo": "https://new7.zinkmovies.biz/wp-content/uploads/2025/02/photo_5022038112150335812_x.jpg",
-      "contentLanguage": ["en", "hi"]
-    },
-    {
+{
       "id": "vegamovies",
       "name": "VegaMovies",
       "description": "Indian & Hollywood movies/series from vegamovies.market",
