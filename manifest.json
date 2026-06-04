@@ -7,7 +7,7 @@
       "id": "vegamovies",
       "name": "VegaMovies",
       "description": "Indian & Hollywood movies/series from vegamovies.market",
-      "version": "1.0.2",
+      "version": "1.0.1",
       "author": "piratezoro9",
       "supportedTypes": ["movie", "tv"],
       "filename": "providers/vegamovies.js",
@@ -126,7 +126,7 @@
       "id": "zinkmovies",
       "name": "ZinkMovies",
       "description": "Movies & WebSeries from zinkmovies.monster (HDVB)",
-      "version": "1.0.2",
+      "version": "1.0.1",
       "author": "piratezoro9",
       "supportedTypes": ["movie", "tv"],
       "filename": "providers/zinkmovies.js",
@@ -134,6 +134,19 @@
       "formats": ["mp4", "mkv", "m3u8"],
       "logo": "https://zinkmovies.monster/wp-content/uploads/2025/02/cropped-photo_5022038112150335812_x-192x192.jpg",
       "contentLanguage": ["en", "hi", "ta", "te", "bn"]
+    },
+    {
+      "id": "animetsu",
+      "name": "Animetsu",
+      "description": "Lightning fast sub & dub anime streams via Animetsu",
+      "version": "1.0.0",
+      "author": "piratezoro9",
+      "supportedTypes": ["movie", "tv", "anime"],
+      "filename": "providers/animetsu.js",
+      "enabled": true,
+      "formats": ["m3u8"],
+      "logo": "https://animetsu.live/favicon.ico",
+      "contentLanguage": ["en", "ja"]
     }
   ]
 }
