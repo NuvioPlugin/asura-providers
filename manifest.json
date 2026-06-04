@@ -147,6 +147,19 @@
       "formats": ["m3u8"],
       "logo": "https://animetsu.live/favicon.ico",
       "contentLanguage": ["en", "ja"]
+    },
+    {
+      "id": "kisskh",
+      "name": "KissKH",
+      "description": "Asian dramas and movies from kisskh.nl with custom AES decryption",
+      "version": "1.0.0",
+      "author": "piratezoro9",
+      "supportedTypes": ["movie", "tv"],
+      "filename": "providers/kisskh.js",
+      "enabled": true,
+      "formats": ["m3u8", "mp4"],
+      "logo": "https://kisskh.nl/assets/icons/icon-96x96.png",
+      "contentLanguage": ["en"]
     }
   ]
 }
