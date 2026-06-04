@@ -1,6 +1,6 @@
 {
   "name": "Asura Synthesis",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "settings": [],
   "scrapers": [
 {
@@ -126,12 +126,12 @@
       "id": "zinkmovies",
       "name": "ZinkMovies",
       "description": "Movies & WebSeries from zinkmovies.monster (HDVB)",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "author": "piratezoro9",
       "supportedTypes": ["movie", "tv"],
       "filename": "providers/zinkmovies.js",
       "enabled": true,
-      "formats": ["m3u8"],
+      "formats": ["mp4", "mkv", "m3u8"],
       "logo": "https://zinkmovies.monster/wp-content/uploads/2025/02/cropped-photo_5022038112150335812_x-192x192.jpg",
       "contentLanguage": ["en", "hi", "ta", "te", "bn"]
     }
