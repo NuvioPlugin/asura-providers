@@ -126,7 +126,7 @@
       "id": "zinkmovies",
       "name": "ZinkMovies",
       "description": "Movies & WebSeries from zinkmovies.monster (HDVB)",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "author": "piratezoro9",
       "supportedTypes": ["movie", "tv"],
       "filename": "providers/zinkmovies.js",
