@@ -3,7 +3,7 @@
   "version": "1.0.3",
   "settings": [],
   "scrapers": [
-{
+    {
       "id": "vegamovies",
       "name": "VegaMovies",
       "description": "Indian & Hollywood movies/series from vegamovies.market",
@@ -13,7 +13,7 @@
       "filename": "providers/vegamovies.js",
       "enabled": true,
       "formats": ["mp4", "mkv", "m3u8"],
-      "logo": "https://vegamovies.market/favicon.ico",
+      "logo": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://vegamovies.market&size=256",
       "contentLanguage": ["en", "hi"],
       "limited": true
     },
@@ -27,7 +27,7 @@
       "filename": "providers/biavox.js",
       "enabled": true,
       "formats": ["m3u8"],
-      "logo": "https://biavox.com/favicon.ico",
+      "logo": "https://www.google.com/s2/favicons?domain=biavox.com&sz=256",
       "contentLanguage": ["en", "fr"]
     },
     {
@@ -40,7 +40,7 @@
       "filename": "providers/cinemm.js",
       "enabled": true,
       "formats": ["mp4", "mkv"],
-      "logo": "https://cinemm.com/favicon.ico",
+      "logo": "https://www.google.com/s2/favicons?domain=cinemm.com&sz=256",
       "contentLanguage": ["en"]
     },
     {
@@ -66,7 +66,7 @@
       "filename": "providers/peachify.js",
       "enabled": true,
       "formats": ["m3u8", "mp4"],
-      "logo": "https://peachify.top/favicon.ico",
+      "logo": "https://www.google.com/s2/favicons?domain=peachify.top&sz=256",
       "contentLanguage": ["en"]
     },
     {
@@ -79,7 +79,7 @@
       "filename": "providers/moviesdrive.js",
       "enabled": true,
       "formats": ["mp4", "mkv"],
-      "logo": "https://new2.moviesdrives.my/favicon.ico",
+      "logo": "https://new2.moviesdrives.my/wp-content/uploads/2026/01/cropped-Gemini_Generated_Image_qt93aqt93aqt93aq-1-180x180.png",
       "contentLanguage": ["en", "hi"]
 
     },
