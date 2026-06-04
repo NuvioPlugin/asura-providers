@@ -6,7 +6,7 @@
     {
       "id": "vegamovies",
       "name": "VegaMovies",
-      "description": "Indian & Hollywood movies/series from vegamovies.market",
+      "description": "Indian & Hollywood movies/series from vegamovies.mq",
       "version": "1.0.1",
       "author": "piratezoro9",
       "supportedTypes": ["movie", "tv"],
@@ -33,7 +33,7 @@
     {
       "id": "cinemm",
       "name": "CineMM",
-      "description": "Direct MP4 streams from cinemm.com)",
+      "description": "Direct MP4 streams from cinemm.com",
       "version": "1.0.0",
       "author": "piratezoro9",
       "supportedTypes": ["movie", "tv"],
@@ -72,7 +72,7 @@
     {
       "id": "moviesdrive",
       "name": "MoviesDrive",
-      "description": "Hindi movies & series from new2.moviesdrives.my",
+      "description": "Hindi movies & series from new3.moviesdrives.my",
       "version": "1.0.1",
       "author": "piratezoro9",
       "supportedTypes": ["movie", "tv"],
@@ -99,7 +99,7 @@
     {
       "id": "4khdhub",
       "name": "4kHDHub",
-      "description": "Direct Dual-Audio Movies & Series)",
+      "description": "Direct Dual-Audio Movies & Series",
       "version": "1.0.1",
       "author": "piratezoro9",
       "supportedTypes": ["movie", "tv"],
