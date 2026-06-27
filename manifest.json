@@ -203,6 +203,19 @@
       "formats": ["mkv", "mp4"],
       "logo": "https://www.google.com/s2/favicons?domain=hdhub4u.cl&sz=256",
       "contentLanguage": ["en", "hi"]
+    },
+    {
+      "id": "uhdmovies",
+      "name": "UHDMovies",
+      "description": "4K, 1080p Hollywood movies/series from uhdmovies.food via Google Drive",
+      "version": "1.0.0",
+      "author": "piratezoro9",
+      "supportedTypes": ["movie", "tv", "series"],
+      "filename": "providers/uhdmovies.js",
+      "enabled": true,
+      "formats": ["mp4", "mkv"],
+      "logo": "https://www.google.com/s2/favicons?domain=uhdmovies.food&sz=256",
+      "contentLanguage": ["en"]
     }
   ]
 }
