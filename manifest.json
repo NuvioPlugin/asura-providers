@@ -18,6 +18,19 @@
       "limited": true
     },
     {
+      "id": "movieshunt",
+      "name": "MoviesHunt",
+      "description": "Multi-audio movies from movieshunt.team via HubCloud/VCloud→FSL",
+      "version": "1.0.1",
+      "author": "piratezoro9",
+      "supportedTypes": ["movie", "tv", "series"],
+      "filename": "providers/movieshunt.js",
+      "enabled": true,
+      "formats": ["mkv", "mp4"],
+      "logo": "https://www.google.com/s2/favicons?domain=movieshunt.team&sz=256",
+      "contentLanguage": ["en", "hi", "ta", "te"]
+    },
+    {
       "id": "biavox",
       "name": "BiaVox",
       "description": "Multi-lang movies from biavox.com",
